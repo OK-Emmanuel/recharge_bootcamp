@@ -7616,7 +7616,7 @@ button:hover:after {
     }
 }
 
-.lgx-banner {
+/* .lgx-banner {
     background: url(../img/banner.jpg) top center no-repeat;
     -webkit-background-size: cover;
     -o-background-size: cover;
@@ -7682,7 +7682,7 @@ button:hover:after {
     -o-background-size: cover;
     -moz-background-size: cover;
     background-size: cover
-}
+} */
 
 .lgx-banner12 {
     background: url(../img/bg1.jpg) top center no-repeat;
@@ -7692,7 +7692,7 @@ button:hover:after {
     background-size: cover
 }
 
-.lgx-banner13 {
+/* .lgx-banner13 {
     background: url(../img/banner-new.jpg) top center no-repeat;
     -webkit-background-size: cover;
     -o-background-size: cover;
@@ -7739,7 +7739,7 @@ button:hover:after {
     -moz-background-size: cover;
     background-size: cover
 }
-
+ */
 .lgx-banner-info-area {
     display: flex
 }
@@ -10407,7 +10407,7 @@ button:hover:after {
 }
 
 .lgx-sponsors {
-    background: url(../img/sponsor-bg.jpg) bottom center no-repeat;
+    /* background: url(../img/sponsor-bg.jpg) bottom center no-repeat; */
     -webkit-background-size: cover;
     -o-background-size: cover;
     -moz-background-size: cover;
@@ -11670,7 +11670,7 @@ button:hover:after {
 }
 
 .lgx-countdowns3 {
-    background: url(../img/banner-bg2.jpg) top center no-repeat fixed;
+    /* background: url(../img/banner-bg2.jpg) top center no-repeat fixed; */
     -webkit-background-size: cover;
     -o-background-size: cover;
     -moz-background-size: cover;
@@ -11682,7 +11682,7 @@ button:hover:after {
 }
 
 .lgx-countdowns4 {
-    background: url(../img/banner-bg2.jpg) top center no-repeat fixed;
+    /* background: url(../img/banner-bg2.jpg) top center no-repeat fixed; */
     -webkit-background-size: cover;
     -o-background-size: cover;
     -moz-background-size: cover;
@@ -12988,7 +12988,7 @@ blockquote.lgx-testi-single:before {
 }
 
 .lgx-footer {
-    background: url(../img/footer-bg.jpg) bottom center no-repeat;
+    /* background: url(../img/footer-bg.jpg) bottom center no-repeat; */
     -webkit-background-size: cover;
     -o-background-size: cover;
     -moz-background-size: cover;
